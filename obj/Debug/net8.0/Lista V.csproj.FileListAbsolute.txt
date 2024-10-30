@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\bin\Debug\net8.0\Lista V.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\bin\Debug\net8.0\Lista V.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\bin\Debug\net8.0\Lista V.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\bin\Debug\net8.0\Lista V.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\bin\Debug\net8.0\Lista V.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\obj\Debug\net8.0\Lista V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\obj\Debug\net8.0\Lista V.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\obj\Debug\net8.0\Lista V.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\obj\Debug\net8.0\Lista V.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\obj\Debug\net8.0\Lista V.sourcelink.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\obj\Debug\net8.0\Lista V.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\obj\Debug\net8.0\refint\Lista V.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\obj\Debug\net8.0\Lista V.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\obj\Debug\net8.0\Lista V.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lista V\obj\Debug\net8.0\ref\Lista V.dll
