@@ -46,7 +46,24 @@ cada item abaixo):
 
 9. Dada a matriz A, a matriz transposta de A, representada por AT, terá em sua primeira
 coluna a primeira linha da matriz A; já a segunda coluna da matriz transposta será a
-segunda linha da matriz A, e assim sucessivamente.
+segunda linha da matriz A, e assim sucessivamente. Veja o exemplo abaixo:
+
+<div>
+  <table border="1">
+    <tr><th colspan="3">Matriz A</th></tr>
+    <tr><td>96</td><td>84</td><td>31</td></tr>
+    <tr><td>38</td><td>36</td><td>17</td></tr>
+    <tr><td>89</td><td>71</td><td>90</td></tr>
+  </table>
+  <table border="1">
+    <tr><th colspan="3">Matriz AT</th></tr>
+    <tr><td>96</td><td>38</td><td>89</td></tr>
+    <tr><td>84</td><td>36</td><td>71</td></tr>
+    <tr><td>31</td><td>17</td><td>90</td></tr>
+  </table>
+</div>
+
+Diante disso, crie uma função que receba uma matriz e retorne a sua transposta.
 
 10. Escrever um procedimento que preencha uma matriz M(10,10) e a escreva. Faça outros
 procedimentos que recebam uma matriz preenchida, realize as trocas indicadas a seguir
