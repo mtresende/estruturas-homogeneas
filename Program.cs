@@ -1,1 +1,1 @@
-﻿exercicio06.rodar();
+﻿exercicio10.rodar();
